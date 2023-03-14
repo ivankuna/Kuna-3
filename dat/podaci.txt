@@ -1,0 +1,90 @@
+2
+P1234
+Petar
+Kovačević
+Viši predavač
+P4454
+Ivana
+Babić
+profesor visoke škole
+PR443
+Programiranje u jeziku Java
+6
+1
+2
+PR667
+Web aplikacije u Javi
+7
+2
+2
+Marko
+Curić
+12.11.1999.
+024680654
+Ivana
+Belić
+12.12.1999.
+0036389977
+1
+mala
+mala
+1
+1
+11.10.2022.T18:00
+2
+mala
+mala
+2
+5
+12.10.2022.T18:00
+1
+Tehničko veleučilište
+5
+5
+4
+4
+
+P4321
+Marko
+Kesedžija
+Niži predavač
+P5545
+Branka
+Miholjević
+profesorica
+PR334
+Programiranje u jeziku Clipperu
+5
+1
+2
+PR776
+Web aplikacije u Pythonu
+7
+2
+2
+Marica
+Curičić
+12.11.2000.
+024680654
+Ivan
+Beličić
+10.10.1999.
+0036389977
+1
+mala
+mala
+1
+1
+11.10.2022.T18:00
+2
+mala
+mala
+2
+5
+12.10.2022.T18:00
+1
+Tehničko veleučilište
+5
+5
+4
+4
